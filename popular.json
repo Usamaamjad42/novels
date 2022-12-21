@@ -1,38 +1,40 @@
-[
-  {
-    "id": 1,
-    "title": "Le Goriot",
-    "language": "French, English",
-    "novelLink": "xyz",
-    "pages": 443,
-    "year": 1835,
-    "thumbnail": "https://thumbs.dreamstime.com/z/latest-english-famous-novels-sale-library-book-store-bucharest-romania-may-79743982.jpg"
-  },
-  {
-    "id": 2,
-    "title": "Goriot",
-    "language": "French, English",
-    "novelLink": "xyz",
-    "pages": 443,
-    "year": 1835,
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2019/08/novels.jpg"
-  },
-  {
-    "id": 3,
-    "title": "The Return",
-    "language": "French, English",
-    "novelLink": "xyz",
-    "pages": 443,
-    "year": 1835,
-    "thumbnail": "https://thumbs.dreamstime.com/z/latest-english-famous-novels-sale-library-book-store-bucharest-romania-may-79743982.jpg"
-  },
-  {
-    "id": 4,
-    "title": "Ishfaq Ahmed",
-    "language": "French, English",
-    "novelLink": "xyz",
-    "pages": 443,
-    "year": 1835,
-    "thumbnail": "https://b9r8e6p9.stackpathcdn.com/app/uploads/2021/03/This-Tender-Land_SS.jpg"
-  }
-]
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Le Goriot",
+      "language": "French, English",
+      "novelLink": "xyz",
+      "pages": 443,
+      "year": 1835,
+      "thumbnail": "https://thumbs.dreamstime.com/z/latest-english-famous-novels-sale-library-book-store-bucharest-romania-may-79743982.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Goriot",
+      "language": "French, English",
+      "novelLink": "xyz",
+      "pages": 443,
+      "year": 1835,
+      "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2019/08/novels.jpg"
+    },
+    {
+      "id": 3,
+      "title": "The Return",
+      "language": "French, English",
+      "novelLink": "xyz",
+      "pages": 443,
+      "year": 1835,
+      "thumbnail": "https://thumbs.dreamstime.com/z/latest-english-famous-novels-sale-library-book-store-bucharest-romania-may-79743982.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Ishfaq Ahmed",
+      "language": "French, English",
+      "novelLink": "xyz",
+      "pages": 443,
+      "year": 1835,
+      "thumbnail": "https://b9r8e6p9.stackpathcdn.com/app/uploads/2021/03/This-Tender-Land_SS.jpg"
+    }
+  ]
+}
